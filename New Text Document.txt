@@ -1,0 +1,18 @@
+- [ ] Supabase project created
+- [ ] users table created
+- [ ] assessments table created
+- [ ] participants table created
+- [ ] invites table created
+- [ ] responses table created
+- [ ] logs table created
+- [ ] trial pillars seeded
+- [ ] create assessment API done
+- [ ] invite API done
+- [ ] response save API done
+- [ ] scoring done
+- [ ] basic report done
+- [ ] upgrade flow done
+- [ ] gifting done
+- [ ] 30-day incomplete done
+- [ ] pause/resume/cancel done
+- [ ] Android integration done
